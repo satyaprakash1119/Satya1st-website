@@ -1,0 +1,30 @@
+/*css is a cascading style sheet.
+It is a language used to describe style of the document
+
+Basic syntax of CSS
+Selectors
+h1{
+    color:red;  --property:value
+}
+
+Different Styles- Inline, Internal(style tag), External
+*/
+
+h2{
+    color:yellow
+}
+
+#one{
+    color:purple
+}
+button{
+    color:rgb(6, 248, 2);
+    background-color:pink;
+}
+body{
+    background-color: cyan;
+}
+
+/* 
+color system-rgb, hsb 
+*/
